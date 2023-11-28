@@ -3,6 +3,8 @@ import request from 'request'
 
 const router = express.Router()
 
+console.log(router)
+
 router.get('/', async function(req, res) {
  
     var token = req.headers["x-ms-token-aad-access-token"]

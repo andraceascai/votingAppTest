@@ -3,7 +3,7 @@
 
 // const router = express.Router()
 
-console.log("router")
+console.log("router and friends")
 
 // router.get('/', async function(req, res) {
  
